@@ -1,5 +1,3 @@
 # latihan-apache-tomcat-8
 
-latihan jsp menggunakan server apache tomcat 
-
-@apache/tomcat
+latihan jsp menggunakan server apache tomcat
