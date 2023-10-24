@@ -1,3 +1,3 @@
-# apache-tomcat-8
+# Java Server Pages
 
-latihan jsp menggunakan server apache tomcat
+latihan jsp menggunakan server apache tomcat 8
